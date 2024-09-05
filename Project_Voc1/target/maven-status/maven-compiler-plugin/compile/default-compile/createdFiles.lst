@@ -1,0 +1,5 @@
+pages\InventoryPage.class
+utils\ElementUtils.class
+utils\BrowserUtils.class
+appcomponents\AppCommonMethods.class
+pages\LoginPage.class
